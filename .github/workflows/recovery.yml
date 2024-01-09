@@ -6,7 +6,7 @@ on:
       RECOVERY_URL:
         description: 'RECOVERY URL'
         required: true
-        default: 'https://drive.usercontent.google.com/download?id=1RIqRYIfPlydQbaerLd21V6Vp_k1vNrJm&export=download&authuser=0'
+        default: 'https://filesend.io/d41y/recovery.img'
 
 env:
   RECOVERY_URL: https://oshi.at/Rpjg
